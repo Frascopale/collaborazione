@@ -1,7 +1,17 @@
 body{
     background-color: aqua;
 }
-
+.barranav{
+    display: inline;
+    background-color: aliceblue;
+}
+img {
+    align-items: center;
+}
+footer{
+    text-align: center;
+    color: brown;
+}
 .header {
     background-color: #007fff;
     color: red;
