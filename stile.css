@@ -11,3 +11,10 @@ body{
     animation-duration: 10s;
     animation-iteration-count: infinite;
   }
+
+  @keyframes titolo {
+    0%   {background-color: #007fff; color: red;}
+    25%  {background-color: yellow; color: blue;}
+    50%  {background-color: blue; color: yellow;}
+    100% {background-color: #007fff; color: red;}
+  }
