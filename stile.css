@@ -18,3 +18,6 @@ body{
     50%  {background-color: blue; color: yellow;}
     100% {background-color: #007fff; color: red;}
   }
+  .header h1  {
+    font-size: 50px;
+  }
