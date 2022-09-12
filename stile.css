@@ -1,3 +1,13 @@
 body{
     background-color: aqua;
 }
+
+.header {
+    background-color: #007fff;
+    color: red;
+    text-align: center;
+    padding: 15px;
+    animation-name: titolo;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+  }
